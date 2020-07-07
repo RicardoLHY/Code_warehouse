@@ -2,8 +2,8 @@
 //  main.c
 //  UNIT_9
 //
-//  Created by 李环宇 on 2019/7/23.
-//  Copyright © 2019 Li Huanyu. All rights reserved.
+//  Created by RicardoLHY on 2019/7/23.
+//  Copyright © 2019 RicardoLHY. All rights reserved.
 //
 
 //unit 9
