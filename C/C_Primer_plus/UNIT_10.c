@@ -2,8 +2,8 @@
 //  main.c
 //  UNIT_10
 //
-//  Created by 李环宇 on 2019/8/19.
-//  Copyright © 2019 Li Huanyu. All rights reserved.
+//  Created by RicardoLHY on 2019/8/19.
+//  Copyright © 2019 RicardoLHY. All rights reserved.
 //
 
 //unit 10
